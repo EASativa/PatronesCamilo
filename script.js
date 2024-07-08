@@ -8,7 +8,7 @@ const patrones = [
     {
         nombre: "Yale Izquierda",
         imagen: "yale_izquierda.jpg",
-        stock: 5
+        stock: 10
     },
     {
         nombre: "EZC",
