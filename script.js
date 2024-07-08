@@ -11,11 +11,6 @@ const patrones = [
         stock: 10
     },
     {
-        nombre: "EZC",
-        imagen: "ezc.jpg",
-        stock: 20
-    },
-    {
         nombre: "Wipe",
         imagen: "wipe.jpg",
         stock: 20
