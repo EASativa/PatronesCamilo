@@ -8,26 +8,21 @@ const patrones = [
     {
         nombre: "Yale Izquierda",
         imagen: "yale_izquierda.jpg",
-        stock: 5
+        stock: 10
     },
     {
-        nombre: "EZC",
-        imagen: "ezc.jpg",
+        nombre: "Wipe",
+        imagen: "wipe.jpg",
         stock: 20
     },
     {
-        nombre: "Wipper",
-        imagen: "wipper.jpg",
+        nombre: "Virus Derecha",
+        imagen: "virus_derecha.jpg",
         stock: 20
     },
     {
-        nombre: "Philips",
-        imagen: "philips.jpg",
-        stock: 20
-    },
-    {
-        nombre: "Slach",
-        imagen: "slach.jpg",
+        nombre: "Virus Izquierda",
+        imagen: "virus_izquierda.jpg",
         stock: 20
     },
     // Agregar más patrones como sea necesario
